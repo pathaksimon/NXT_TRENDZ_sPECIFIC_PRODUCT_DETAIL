@@ -1,0 +1,15 @@
+.lista {
+  list-style-type: none;
+  background-color: red;
+  width: 30%;
+  margin: 10px;
+}
+
+.bottom-photo {
+  width: 100%;
+}
+
+.lefi {
+  display: flex;
+  justify-content: space-between;
+}

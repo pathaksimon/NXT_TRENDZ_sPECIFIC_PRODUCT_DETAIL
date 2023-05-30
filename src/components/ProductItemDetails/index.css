@@ -1,0 +1,53 @@
+.card2 {
+  background-color: red;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.image-card {
+  width: 90%;
+  background-color: green;
+  display: flex;
+  justify-content: space-between;
+}
+
+.photo {
+  width: 45%;
+}
+
+.details-card {
+  width: 45%;
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.hori {
+  width: 100%;
+}
+
+.plus-minus {
+  background-color: blanchedalmond;
+  display: flex;
+}
+
+.card3 {
+  background-color: blueviolet;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.similar-products-card {
+  width: 90%;
+  margin-top: 25px;
+  background-color: aqua;
+}
+
+.ulu {
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+}
